@@ -3,3 +3,4 @@ matplotlib
 tensorflow
 pandas
 opencv-python
+pyarrow
